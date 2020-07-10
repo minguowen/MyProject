@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://pythonintro.googlecode.com/svn/trunk/code/chp10
+https://pythonintro.googlecode.com/svn
+
+
+
+2008-11-06T08:00:23.348298Z
+2
+tjdonaldson
+
+
+svn:special svn:externals svn:needs-lock
+
+players.py
+file
+
+
+
+
+2008-11-06T07:45:56.000000Z
+36180e70731c142795b020ed4dc905ad
+2008-11-06T08:00:23.348298Z
+2
+tjdonaldson
+
+person.py
+file
+
+
+
+
+2008-11-06T07:45:56.000000Z
+d530ce6916ffa70813e50397bc942410
+2008-11-06T08:00:23.348298Z
+2
+tjdonaldson
+
